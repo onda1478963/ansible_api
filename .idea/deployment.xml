@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ansible_api">
+    <serverData>
+      <paths name="ansible_api">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/ansible_api_demo" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

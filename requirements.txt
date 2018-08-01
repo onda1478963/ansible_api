@@ -1,0 +1,9 @@
+# This is a PIP requirements file.
+# To setup a dev environment:
+#
+#   Use Python 2.6+
+#
+
+flask
+requests
+ansible
